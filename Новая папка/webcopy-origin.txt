@@ -1,0 +1,580 @@
+Uri: https://www.instagram.com/
+File Name: C:\Downloaded Web Sites\www.instagram.com\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/data/manifest.json
+File Name: C:\Downloaded Web Sites\www.instagram.com\data\manifest.json
+Content Type: application/json
+
+Uri: https://www.instagram.com/static/bundles/metro/ConsumerUICommons.css/a0da537c5dd8.css
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ConsumerUICommons.css\a0da537c5dd8.css
+Content Type: text/css
+
+Uri: https://www.instagram.com/static/bundles/metro/Consumer.css/b3953471679a.css
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\Consumer.css\b3953471679a.css
+Content Type: text/css
+
+Uri: https://www.instagram.com/static/bundles/metro/Vendor.js/6b3e3ddf6057.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\Vendor.js\6b3e3ddf6057.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ru_RU.js/1e0dca7070a4.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ru_RU.js\1e0dca7070a4.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ConsumerLibCommons.js/1d3ebcfb03d2.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ConsumerLibCommons.js\1d3ebcfb03d2.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ConsumerUICommons.js/39e23f0c4338.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ConsumerUICommons.js\39e23f0c4338.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/Consumer.js/5693694b5295.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\Consumer.js\5693694b5295.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/FeedPageContainer.js/f4535892570c.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\FeedPageContainer.js\f4535892570c.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/FeedPageContainer.css/31d2ed069293.css
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\FeedPageContainer.css\31d2ed069293.css
+Content Type: text/css
+
+Uri: https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\apple-touch-icon-76x76-precomposed.png\666282be8229.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/apple-touch-icon-120x120-precomposed.png/8a5bd3f267b1.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\apple-touch-icon-120x120-precomposed.png\8a5bd3f267b1.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/apple-touch-icon-152x152-precomposed.png/68193576ffc5.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\apple-touch-icon-152x152-precomposed.png\68193576ffc5.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/apple-touch-icon-167x167-precomposed.png/4985e31c9100.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\apple-touch-icon-167x167-precomposed.png\4985e31c9100.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/apple-touch-icon-180x180-precomposed.png/c06fdb2357bd.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\apple-touch-icon-180x180-precomposed.png\c06fdb2357bd.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\favicon-192.png\68d99ba29cc8.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/ico/favicon.svg/fc72dd4bfde8.svg
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\favicon.svg\fc72dd4bfde8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\ico\favicon.ico\36b3ee2d91ed.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.instagram.com/?hl=en
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=it
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=de
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=es
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-cn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-tw
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ja
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ko
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pt
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pt-br
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=af
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=cs
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=da
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=el
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hu
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=id
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-19.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ms
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-20.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=nb
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-21.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=nl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-22.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-23.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ru
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-24.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-25.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sv
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-26.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=th
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-27.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=tl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-28.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=tr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-29.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-30.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=bn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-31.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=gu
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-32.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=kn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-33.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ml
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-34.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=mr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-35.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pa
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-36.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ta
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-37.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=te
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-38.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ne
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-39.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=si
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-40.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ur
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-41.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=vi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-42.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=bg
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-43.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fr-ca
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-44.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ro
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-45.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-46.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=uk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-47.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-hk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-48.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=es-la
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-49.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=en-gb
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-50.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sw-ke
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-51.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ha-ng
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-52.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=am-et
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-53.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=om-et
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-54.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/static/bundles/metro/Polyfills.js/36fde9e990cc.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\Polyfills.js\36fde9e990cc.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_wellbeing_6af9c5060ebc.png/6af9c5060ebc.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_wellbeing_6af9c5060ebc.png\6af9c5060ebc.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_wellbeing_2x_c0241d394c59.png/c0241d394c59.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_wellbeing_2x_c0241d394c59.png\c0241d394c59.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_stories_ce36b733f814.png/ce36b733f814.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_stories_ce36b733f814.png\ce36b733f814.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_stories_2x_5b2f74f4bf86.png/5b2f74f4bf86.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_stories_2x_5b2f74f4bf86.png\5b2f74f4bf86.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_nametag_ff60b6c57870.png/ff60b6c57870.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_nametag_ff60b6c57870.png\ff60b6c57870.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_nametag_2x_69c195e9ff3c.png/69c195e9ff3c.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_nametag_2x_69c195e9ff3c.png\69c195e9ff3c.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_mediatypes_65c15d7731ea.png/65c15d7731ea.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_mediatypes_65c15d7731ea.png\65c15d7731ea.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_mediatypes_2x_3be21f338c88.png/3be21f338c88.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_mediatypes_2x_3be21f338c88.png\3be21f338c88.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_loggedout_995ea10178c7.png/995ea10178c7.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_loggedout_995ea10178c7.png\995ea10178c7.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_loggedout_2x_839e62b1415f.png/839e62b1415f.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_loggedout_2x_839e62b1415f.png\839e62b1415f.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_glyphs_f113c82cdfcc.png/f113c82cdfcc.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_glyphs_f113c82cdfcc.png\f113c82cdfcc.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_2a08329072ae.png/2a08329072ae.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_glyphs_2x_2a08329072ae.png\2a08329072ae.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_debuginfo_04482f505972.png/04482f505972.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_debuginfo_04482f505972.png\04482f505972.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_debuginfo_2x_24b85a13663c.png/24b85a13663c.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_debuginfo_2x_24b85a13663c.png\24b85a13663c.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_core_32f0a4f27407.png/32f0a4f27407.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_core_32f0a4f27407.png\32f0a4f27407.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_core_2x_bcd90c1d4868.png\bcd90c1d4868.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_felix_4800bc114a3a.png/4800bc114a3a.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_felix_4800bc114a3a.png\4800bc114a3a.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_felix_2x_90d41aa74a11.png/90d41aa74a11.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_felix_2x_90d41aa74a11.png\90d41aa74a11.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_video_2fdc79aa66b0.png/2fdc79aa66b0.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_video_2fdc79aa66b0.png\2fdc79aa66b0.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_video_2x_4ca1223795d3.png/4ca1223795d3.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_video_2x_4ca1223795d3.png\4ca1223795d3.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\homepage\home-phones.png\43cc71bb1b43.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/homepage/home-phones@2x.png/9364675fb26a.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\homepage\home-phones@2x.png\9364675fb26a.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/rainbowGradient.png/558818d23695.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\images\rainbowGradient.png\558818d23695.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/shimmer-dark_da4ad644f34a.gif/da4ad644f34a.gif
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\shimmer-dark_da4ad644f34a.gif\da4ad644f34a.gif
+Content Type: image/gif
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_payments_70cdf3ed970e.png/70cdf3ed970e.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_payments_70cdf3ed970e.png\70cdf3ed970e.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/sprite_payments_2x_b54ac2e84c57.png/b54ac2e84c57.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sprite_payments_2x_b54ac2e84c57.png\b54ac2e84c57.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/bundles/metro/en_US.js/a99d86acefe1.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\en_US.js\a99d86acefe1.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/fr_FR.js/b5e589aeb061.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\fr_FR.js\b5e589aeb061.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/it_IT.js/61deeaa9df65.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\it_IT.js\61deeaa9df65.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/de_DE.js/4796b2b5ca35.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\de_DE.js\4796b2b5ca35.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/es_LA.js/df93673f3886.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\es_LA.js\df93673f3886.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/zh_CN.js/0cce2e5d7829.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\zh_CN.js\0cce2e5d7829.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/zh_TW.js/1b1036fd4dba.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\zh_TW.js\1b1036fd4dba.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ja_JP.js/222a4a14aac1.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ja_JP.js\222a4a14aac1.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ko_KR.js/f29b8adc84c1.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ko_KR.js\f29b8adc84c1.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/pt_BR.js/410c7b9e7083.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\pt_BR.js\410c7b9e7083.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/af_ZA.js/e46a6f3cc1aa.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\af_ZA.js\e46a6f3cc1aa.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/cs_CZ.js/66b1bc777b9e.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\cs_CZ.js\66b1bc777b9e.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/da_DK.js/06e00fef2d9f.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\da_DK.js\06e00fef2d9f.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/el_GR.js/575c0da7482b.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\el_GR.js\575c0da7482b.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/fi_FI.js/dfea6fef23ea.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\fi_FI.js\dfea6fef23ea.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/hr_HR.js/3ca990128df2.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\hr_HR.js\3ca990128df2.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/hu_HU.js/3d74c93fb21e.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\hu_HU.js\3d74c93fb21e.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/id_ID.js/8e0807638695.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\id_ID.js\8e0807638695.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ms_MY.js/a758d6cf6f1d.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ms_MY.js\a758d6cf6f1d.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/nb_NO.js/1a6014cd9506.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\nb_NO.js\1a6014cd9506.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/nl_NL.js/b0f30316e54d.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\nl_NL.js\b0f30316e54d.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/pl_PL.js/d07d35d24715.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\pl_PL.js\d07d35d24715.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/sk_SK.js/4ec1b114fee0.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sk_SK.js\4ec1b114fee0.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/sv_SE.js/3ac3484ee331.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sv_SE.js\3ac3484ee331.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/th_TH.js/ffdfef13c18e.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\th_TH.js\ffdfef13c18e.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/tl_PH.js/bbdaa16c9808.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\tl_PH.js\bbdaa16c9808.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/tr_TR.js/14b81ab9c30f.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\tr_TR.js\14b81ab9c30f.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/hi_IN.js/de3ed9bcd0d7.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\hi_IN.js\de3ed9bcd0d7.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/bn_IN.js/104ad0ce58c4.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\bn_IN.js\104ad0ce58c4.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/gu_IN.js/fa565e619dce.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\gu_IN.js\fa565e619dce.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/kn_IN.js/149b53650ba6.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\kn_IN.js\149b53650ba6.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ml_IN.js/a0d8bae528ba.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ml_IN.js\a0d8bae528ba.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/mr_IN.js/5cffddc1974f.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\mr_IN.js\5cffddc1974f.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/pa_IN.js/4601aeab76b7.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\pa_IN.js\4601aeab76b7.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ta_IN.js/c596c37ca241.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ta_IN.js\c596c37ca241.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/te_IN.js/92076e382e05.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\te_IN.js\92076e382e05.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ne_NP.js/8a5e8a901530.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ne_NP.js\8a5e8a901530.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/si_LK.js/8e0d4cc7cf09.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\si_LK.js\8e0d4cc7cf09.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/vi_VN.js/9bda86f48aa5.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\vi_VN.js\9bda86f48aa5.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/bg_BG.js/addb3506903c.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\bg_BG.js\addb3506903c.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/fr_CA.js/ba6208088e6f.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\fr_CA.js\ba6208088e6f.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/ro_RO.js/44428efb577f.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\ro_RO.js\44428efb577f.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/sr_RS.js/f0e41a36e2f9.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\sr_RS.js\f0e41a36e2f9.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/uk_UA.js/8b0a15f7d2de.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\uk_UA.js\8b0a15f7d2de.js
+Content Type: text/javascript
+
+Uri: https://www.instagram.com/static/bundles/metro/zh_HK.js/703d0fe918de.js
+File Name: C:\Downloaded Web Sites\www.instagram.com\static\bundles\metro\zh_HK.js\703d0fe918de.js
+Content Type: text/javascript
+
